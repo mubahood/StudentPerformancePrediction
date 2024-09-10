@@ -1,4 +1,4 @@
-# Unraveling the Secrets of Student Success at Makerere 
+# Unraveling the Secrets of Student Success 
 
 Have you ever wondered what sets apart high-achieving students from those who struggle? Join us on a fascinating journey as we delve into the factors that influence student performance right here at Makerere University. Using the power of machine learning, we aim to predict students' academic success based on various factors such as their background, study habits, and even their social life.
 
